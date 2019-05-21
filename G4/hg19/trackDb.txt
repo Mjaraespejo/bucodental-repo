@@ -1,0 +1,17 @@
+track G4NHEKbw
+bigDataUrl G4NHEKbw.bigWig
+shortLabel G4NHEKbw
+longLabel G4NHEKbw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track G4HACATbw
+bigDataUrl G4HACATbw.bigWig
+shortLabel G4HACATbw
+longLabel G4HACATbw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
